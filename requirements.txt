@@ -1,4 +1,4 @@
 bs4
 pysocks
-python-telegram-bot
+python-telegram-bot==9.0
 requests
